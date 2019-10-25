@@ -1,0 +1,52 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+    font-size: 18px;
+}
+
+.alert {
+    color: #ff4545;
+    margin: 25px;
+}
+
+input {
+    margin: 5px;
+    margin-bottom: 10px;
+}
+
+.log-in, .log-out, .register {
+  background-color: #457736;
+  border-radius: 4px;
+  color: #f8f8f8;
+  min-height: 50px;
+  min-width: 100px;
+  outline:0;
+  cursor: pointer;
+}
+
+.log-in:hover, .log-out:hover, .register:hover {
+  background-color: #008183;
+}
+
+.validationText {
+    margin: 50px;
+}
+
+.appJsRootDiv {
+  /* background-color: #f1f5f9; */
+  /* background-image: linear-gradient(to bottom right, #dbeafa, white); */
+  background-image: linear-gradient(to bottom right, #cadb91, white);
+  height: 100%;
+  padding-top: 50px;
+  padding-bottom: 325px;
+}
+
+.homeDiv {
+  /* background-color: #F1F5F9; */
+  width: 50%;
+  padding: 75px 0px 75px 0px;
+  margin: auto;
+  border-radius: 5%;
+}
+
+
